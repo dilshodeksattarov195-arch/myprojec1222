@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvecrypt",
+        "uuid": 2257034,
+        "checksum": "p2unll"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
